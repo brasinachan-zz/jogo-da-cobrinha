@@ -13,6 +13,14 @@ h1{
     font-family: arial;
     color:white;
     font-size: 50px;
-    padding-top: 20px;
+    padding-top: 50px;
     text-shadow: rgb(23, 63, 30) 2px 2px 2px;
+}
+
+.rodape{
+    text-align: center;
+    color: white;
+    font: arial 12px;
+    padding-top: 20px;
+
 }
